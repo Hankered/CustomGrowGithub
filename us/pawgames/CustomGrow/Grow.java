@@ -4,7 +4,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import us.pawgames.CustomGrow.Tobacco.PlantMain;
+import us.pawgames.CustomGrow.Plant.PlantMain;
 
 
 public class Grow extends JavaPlugin {

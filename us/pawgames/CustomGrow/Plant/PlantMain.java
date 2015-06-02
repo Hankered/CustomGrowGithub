@@ -1,4 +1,4 @@
-package us.pawgames.CustomGrow.Tobacco;
+package us.pawgames.CustomGrow.Plant;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
