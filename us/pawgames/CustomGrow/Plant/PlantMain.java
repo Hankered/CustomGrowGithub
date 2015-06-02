@@ -30,11 +30,9 @@ public class PlantMain implements Listener {
 		if (e.getClickedBlock() == null
 				|| e.getAction() == Action.LEFT_CLICK_AIR //
 				|| e.getAction() == Action.LEFT_CLICK_BLOCK
-				|| e.getAction() == Action.RIGHT_CLICK_AIR 
-				|| p.getItemInHand() == null) {
-			System.out.println("1");
+				|| e.getAction() == Action.RIGHT_CLICK_AIR
+				|| p.getItemInHand() == null)
 			return;
-		}
-		
+
 	}
 }
